@@ -4,3 +4,5 @@ Hi sophie
 =======
 stop chatting shit its the best planet xo 
 >>>>>>> 51f009aa33fb58cc6723ebc0742d3df21e6a9594
+git masters HEAD
+fork connors REPO
